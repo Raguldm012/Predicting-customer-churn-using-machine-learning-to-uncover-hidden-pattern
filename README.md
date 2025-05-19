@@ -19,7 +19,7 @@ import shap
 
 # Load dataset
 # Example: Telco Customer Churn dataset from Kaggle
-url = 'https://raw.githubusercontent.com/blastchar/telco-churn/master/WA_Fn-UseC_-Telco-Customer-Churn.csv'
+url = 'https://github.com/Raguldm012/Predicting-customer-churn-using-machine-learning-to-uncover-hidden-pattern/'
 df = pd.read_csv(url)
 
 # Preview data
